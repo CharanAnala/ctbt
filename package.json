@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.3",
+    "isomorphic-unfetch": "^4.0.2"
+  }
+}
